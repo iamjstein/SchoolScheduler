@@ -4,6 +4,7 @@
   "description": "This will put students in classes",
   "main": "index.js",
   "dependencies": {
+    "googleapis": "^27.0.0",
     "ts-node": "^6.0.3",
     "typescript": "^2.8.3"
   },
